@@ -1,0 +1,11 @@
+//
+// Prefix header for all source files of the 'ARView' target in the 'ARView' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
+
+#define degreesToRadians(x) (M_PI * (x) / 180.0)
+#define radiansToDegrees(x) ((x) * 180.0/M_PI)

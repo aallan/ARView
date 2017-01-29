@@ -1,0 +1,796 @@
+TARView
+v7
+r0
+t292780278.709049
+cCheck dependencies
+cProcessInfoPlistFile "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/Info.plist" ARView-Info.plist
+cCompileXIB "/Users/aa/Desktop/ARView Working/MainWindow.xib"
+cCpResource build/Debug-iphonesimulator/ARView.app/point.png point.png
+cProcessPCH /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ezpjerbggccahpfichhrsihjfkgn/ARView_Prefix.pch.gch ARView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/main.o "/Users/aa/Desktop/ARView Working/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARViewAppDelegate.o "/Users/aa/Desktop/ARView Working/Classes/ARViewAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARCoordinate.o "/Users/aa/Desktop/ARView Working/Classes/ARCoordinate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARController.o "/Users/aa/Desktop/ARView Working/Classes/ARController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/RootController.o "/Users/aa/Desktop/ARView Working/Classes/RootController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARMarker.o "/Users/aa/Desktop/ARView Working/Classes/ARMarker.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARGeoCoordinate.o "/Users/aa/Desktop/ARView Working/Classes/ARGeoCoordinate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/ARView" normal i386
+cGenerateDSYMFile "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app.dSYM" "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/ARView"
+cTouch "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004BBEFC0C00000000000000EE
+t1270807564
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026DB60
+t1253951571
+s2546528
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004ABDEE580000000000049D70
+t1253961304
+s302448
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004ABDEE5400000000000001AF
+t1253961300
+s431
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027D5E0
+t1253951826
+s2610656
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.h
+c000000004ABDCAC8000000000000007D
+t1253952200
+s125
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE20000000001670F70
+t1253961442
+s23531376
+
+N/DeveloperBeta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004BB5C1A000000000000000EE
+t1270202784
+s238
+
+N/DeveloperBeta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/DeveloperBeta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/CoreLocation
+c000000004B2B61C3000000000004AFC0
+t1261134275
+s307136
+
+N/DeveloperBeta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CoreLocation.h
+c000000004B2B61BC00000000000001AF
+t1261134268
+s431
+
+N/DeveloperBeta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/DeveloperBeta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/DeveloperBeta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/MapKit.framework/Headers/MapKit.h
+c000000004B2B634C000000000000017D
+t1261134668
+s381
+
+N/DeveloperBeta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/DeveloperBeta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/aa/Desktop/ARView Working/ARView_Prefix.pch
+c000000004BBE60120000000000000116
+t1270767634
+s278
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/aa/Desktop/ARView Working/Classes/ARController.h
+c000000004BBFA8F900000000000008EF
+t1270851833
+s2287
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/aa/Desktop/ARView Working/Classes/ARController.m
+c000000004BC3416F0000000000003AC1
+t1271087471
+s15041
+i"ARController.h"
+i"ARCoordinate.h"
+i"ARGeoCoordinate.h"
+i"ARMarker.h"
+
+N/Users/aa/Desktop/ARView Working/Classes/ARCoordinate.h
+c000000004BBFA8390000000000000427
+t1270851641
+s1063
+i<Foundation/Foundation.h>
+
+N/Users/aa/Desktop/ARView Working/Classes/ARCoordinate.m
+c000000004BBFA83B0000000000000999
+t1270851643
+s2457
+i"ARCoordinate.h"
+
+N/Users/aa/Desktop/ARView Working/Classes/ARGeoCoordinate.h
+c000000004BBFA877000000000000039D
+t1270851703
+s925
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i"ARCoordinate.h"
+
+N/Users/aa/Desktop/ARView Working/Classes/ARGeoCoordinate.m
+c000000004BBFA8B00000000000000978
+t1270851760
+s2424
+i"ARGeoCoordinate.h"
+
+N/Users/aa/Desktop/ARView Working/Classes/ARMarker.h
+c000000004BBFA89900000000000001B7
+t1270851737
+s439
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/aa/Desktop/ARView Working/Classes/ARMarker.m
+c000000004BBFA8BD00000000000008B6
+t1270851773
+s2230
+i"ARMarker.h"
+i"ARCoordinate.h"
+
+N/Users/aa/Desktop/ARView Working/Classes/ARViewAppDelegate.h
+c000000004BBFA7F300000000000001D0
+t1270851571
+s464
+i<UIKit/UIKit.h>
+
+N/Users/aa/Desktop/ARView Working/Classes/ARViewAppDelegate.m
+c000000004BBFA7EE000000000000027B
+t1270851566
+s635
+i"ARViewAppDelegate.h"
+i"RootController.h"
+
+N/Users/aa/Desktop/ARView Working/Classes/RootController.h
+c000000004BBFA7F10000000000000158
+t1270851569
+s344
+i<UIKit/UIKit.h>
+
+N/Users/aa/Desktop/ARView Working/Classes/RootController.m
+c000000004BBFA7E90000000000000F7F
+t1270851561
+s3967
+i"RootController.h"
+i"ARController.h"
+i"ARGeoCoordinate.h"
+
+N/Users/aa/Desktop/ARView Working/MainWindow.xib
+c000000004BBCA3D00000000000002103
+t1270653904
+s8451
+
+N/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARController.o
+t1271087478
+s71408
+
+N/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARCoordinate.o
+t1271087478
+s14736
+
+N/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARGeoCoordinate.o
+t1271087478
+s13536
+
+N/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARMarker.o
+t1271087478
+s15656
+
+N/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARView.LinkFileList
+c000000004BC341740000000000000354
+t1271087476
+s852
+
+N/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARViewAppDelegate.o
+t1271087478
+s38360
+
+N/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/RootController.o
+t1271087478
+s43944
+
+N/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/main.o
+t1271087478
+s5936
+
+N/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app
+t1271087478
+s238
+
+N/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app.dSYM
+t1271087478
+s102
+
+N/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/ARView
+t1271087478
+s52076
+
+N/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/Info.plist
+t1270808765
+s587
+
+N/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/MainWindow.nib
+t1270808765
+s1530
+
+N/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/PkgInfo
+t1270808765
+s8
+
+N/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/point.png
+t1270808765
+s4170
+
+N/Users/aa/Desktop/ARView Working/main.m
+c000000004BBFA7F80000000000000174
+t1270851576
+s372
+i<UIKit/UIKit.h>
+
+N/Users/aa/Desktop/ARView Working/point.png
+c000000004BBDE3DC000000000000104A
+t1270735836
+s4170
+
+N/Users/aa/Desktop/ARView/ARView_Prefix.pch
+c000000004BBE60120000000000000116
+t1270767634
+s278
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/aa/Desktop/ARView/Classes/ARController.h
+c000000004BBEE24000000000000008B5
+t1270800960
+s2229
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i<UIKit/UIKit.h>
+i<QuartzCore/QuartzCore.h>
+
+N/Users/aa/Desktop/ARView/Classes/ARController.m
+c000000004BBEEA480000000000003A87
+t1270803016
+s14983
+i"ARController.h"
+i"ARCoordinate.h"
+i"ARGeoCoordinate.h"
+i"ARMarker.h"
+
+N/Users/aa/Desktop/ARView/Classes/ARCoordinate.h
+c000000004BBEE86900000000000003B8
+t1270802537
+s952
+i<Foundation/Foundation.h>
+
+N/Users/aa/Desktop/ARView/Classes/ARCoordinate.m
+c000000004BBEE85B000000000000092A
+t1270802523
+s2346
+i"ARCoordinate.h"
+
+N/Users/aa/Desktop/ARView/Classes/ARGeoCoordinate.h
+c000000004BBDD64600000000000002C8
+t1270732358
+s712
+i<Foundation/Foundation.h>
+i<CoreLocation/CoreLocation.h>
+i"ARCoordinate.h"
+
+N/Users/aa/Desktop/ARView/Classes/ARGeoCoordinate.m
+c000000004BBEEAD700000000000008A1
+t1270803159
+s2209
+i"ARGeoCoordinate.h"
+
+N/Users/aa/Desktop/ARView/Classes/ARMarker.h
+c000000004BBDBA7B0000000000000150
+t1270725243
+s336
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/aa/Desktop/ARView/Classes/ARMarker.m
+c000000004BBDEC1D000000000000084F
+t1270737949
+s2127
+i"ARMarker.h"
+i"ARCoordinate.h"
+
+N/Users/aa/Desktop/ARView/Classes/ARViewAppDelegate.h
+c000000004BBCF11700000000000001CC
+t1270673687
+s460
+i<UIKit/UIKit.h>
+
+N/Users/aa/Desktop/ARView/Classes/ARViewAppDelegate.m
+c000000004BBCF11B0000000000000277
+t1270673691
+s631
+i"ARViewAppDelegate.h"
+i"RootController.h"
+
+N/Users/aa/Desktop/ARView/Classes/ARViewController.h
+c000000004BBCED9200000000000000EB
+t1270672786
+s235
+i<UIKit/UIKit.h>
+
+N/Users/aa/Desktop/ARView/Classes/ARViewController.m
+c000000004BBCED92000000000000061B
+t1270672786
+s1563
+i"ARViewController.h"
+
+N/Users/aa/Desktop/ARView/Classes/RootController.h
+c000000004BBCEDDC0000000000000154
+t1270672860
+s340
+i<UIKit/UIKit.h>
+
+N/Users/aa/Desktop/ARView/Classes/RootController.m
+c000000004BBEEAF00000000000000F7F
+t1270803184
+s3967
+i"RootController.h"
+i"ARController.h"
+i"ARGeoCoordinate.h"
+
+N/Users/aa/Desktop/ARView/MainWindow.xib
+c000000004BBCA3D00000000000002103
+t1270653904
+s8451
+
+N/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARController.o
+t1270808766
+s71392
+
+N/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARCoordinate.o
+t1270808766
+s14720
+
+N/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARGeoCoordinate.o
+t1270808767
+s13520
+
+N/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARMarker.o
+t1270808766
+s15640
+
+N/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARView.LinkFileList
+c000000004BBF00BD000000000000031C
+t1270808765
+s796
+
+N/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARViewAppDelegate.o
+t1270808766
+s38344
+
+N/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARViewController.o
+t2
+s0
+
+N/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/RootController.o
+t1270808766
+s43928
+
+N/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/main.o
+t1270808766
+s5920
+
+N/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app
+t1270808767
+s238
+
+N/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app.dSYM
+t1270808767
+s102
+
+N/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/ARView
+t1270808767
+s51964
+
+N/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/Info.plist
+t1270808765
+s587
+
+N/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/MainWindow.nib
+t1270808765
+s1530
+
+N/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/PkgInfo
+t1270808765
+s8
+
+N/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/point.png
+t1270808765
+s4170
+
+N/Users/aa/Desktop/ARView/main.m
+c000000004BBCA3D00000000000000170
+t1270653904
+s368
+i<UIKit/UIKit.h>
+
+N/Users/aa/Desktop/ARView/point.png
+c000000004BBDE3DC000000000000104A
+t1270735836
+s4170
+
+N/var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ebmxrszhglyerlbpqpawlsrenzit/ARView_Prefix.pch.gch
+t1270671327
+s13026768
+
+N/var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ezpjerbggccahpfichhrsihjfkgn/ARView_Prefix.pch.gch
+t1271087477
+s13026768
+
+N/var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-guuhbjufgnwdvzdxtuvnpgupregp/ARView_Prefix.pch.gch
+t1270808766
+s13026768
+
+NARView-Info.plist
+c000000004BBCF191000000000000038B
+t1270673809
+s907
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies292780276#292780276#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARController.o "/Users/aa/Desktop/ARView Working/Classes/ARController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292780278.246841
+e292780278.418792
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARController.o
+x/Users/aa/Desktop/ARView Working/Classes/ARController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/aa/Desktop/ARView Working/Classes/ARController.m292780278#292780278#0(0"0(0#0#55"/Users/aa/Desktop/ARView Working/Classes/ARController.m4300739032#1819"    cd "/Users/aa/Desktop/ARView Working"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap" -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap" "-F/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator" "-I/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/include" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources" -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ezpjerbggccahpfichhrsihjfkgn/ARView_Prefix.pch -c "/Users/aa/Desktop/ARView Working/Classes/ARController.m" -o "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARController.o"0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARController.o /Users/aa/Desktop/ARView/Classes/ARController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292501566.756913
+e292501566.929638
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARController.o
+x/Users/aa/Desktop/ARView/Classes/ARController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/aa/Desktop/ARView/Classes/ARController.m292501566#292501566#0(0"0(0#0#47"/Users/aa/Desktop/ARView/Classes/ARController.m4300739032#1709"    cd /Users/aa/Desktop/ARView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap -F/Users/aa/Desktop/ARView/build/Debug-iphonesimulator -I/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/include -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386 -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-guuhbjufgnwdvzdxtuvnpgupregp/ARView_Prefix.pch -c /Users/aa/Desktop/ARView/Classes/ARController.m -o /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARController.o0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARCoordinate.o "/Users/aa/Desktop/ARView Working/Classes/ARCoordinate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292780278.219841
+e292780278.329987
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARCoordinate.o
+x/Users/aa/Desktop/ARView Working/Classes/ARCoordinate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/aa/Desktop/ARView Working/Classes/ARCoordinate.m292780278#292780278#0(0"0(0#0#55"/Users/aa/Desktop/ARView Working/Classes/ARCoordinate.m4300739032#1819"    cd "/Users/aa/Desktop/ARView Working"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap" -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap" "-F/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator" "-I/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/include" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources" -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ezpjerbggccahpfichhrsihjfkgn/ARView_Prefix.pch -c "/Users/aa/Desktop/ARView Working/Classes/ARCoordinate.m" -o "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARCoordinate.o"0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARCoordinate.o /Users/aa/Desktop/ARView/Classes/ARCoordinate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292501566.739428
+e292501566.810981
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARCoordinate.o
+x/Users/aa/Desktop/ARView/Classes/ARCoordinate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/aa/Desktop/ARView/Classes/ARCoordinate.m292501566#292501566#0(0"0(0#0#47"/Users/aa/Desktop/ARView/Classes/ARCoordinate.m4300739032#1709"    cd /Users/aa/Desktop/ARView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap -F/Users/aa/Desktop/ARView/build/Debug-iphonesimulator -I/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/include -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386 -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-guuhbjufgnwdvzdxtuvnpgupregp/ARView_Prefix.pch -c /Users/aa/Desktop/ARView/Classes/ARCoordinate.m -o /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARCoordinate.o0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARGeoCoordinate.o "/Users/aa/Desktop/ARView Working/Classes/ARGeoCoordinate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292780278.443150
+e292780278.520484
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARGeoCoordinate.o
+x/Users/aa/Desktop/ARView Working/Classes/ARGeoCoordinate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@66"Compile /Users/aa/Desktop/ARView Working/Classes/ARGeoCoordinate.m292780278#292780278#0(0"0(0#0#58"/Users/aa/Desktop/ARView Working/Classes/ARGeoCoordinate.m4300739032#1825"    cd "/Users/aa/Desktop/ARView Working"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap" -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap" "-F/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator" "-I/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/include" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources" -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ezpjerbggccahpfichhrsihjfkgn/ARView_Prefix.pch -c "/Users/aa/Desktop/ARView Working/Classes/ARGeoCoordinate.m" -o "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARGeoCoordinate.o"0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARGeoCoordinate.o /Users/aa/Desktop/ARView/Classes/ARGeoCoordinate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292501566.929744
+e292501567.002100
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARGeoCoordinate.o
+x/Users/aa/Desktop/ARView/Classes/ARGeoCoordinate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/aa/Desktop/ARView/Classes/ARGeoCoordinate.m292501566#292501567#0(0"0(0#0#50"/Users/aa/Desktop/ARView/Classes/ARGeoCoordinate.m4300739032#1715"    cd /Users/aa/Desktop/ARView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap -F/Users/aa/Desktop/ARView/build/Debug-iphonesimulator -I/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/include -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386 -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-guuhbjufgnwdvzdxtuvnpgupregp/ARView_Prefix.pch -c /Users/aa/Desktop/ARView/Classes/ARGeoCoordinate.m -o /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARGeoCoordinate.o0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARMarker.o "/Users/aa/Desktop/ARView Working/Classes/ARMarker.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292780278.418890
+e292780278.500913
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARMarker.o
+x/Users/aa/Desktop/ARView Working/Classes/ARMarker.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@59"Compile /Users/aa/Desktop/ARView Working/Classes/ARMarker.m292780278#292780278#0(0"0(0#0#51"/Users/aa/Desktop/ARView Working/Classes/ARMarker.m4300739032#1811"    cd "/Users/aa/Desktop/ARView Working"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap" -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap" "-F/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator" "-I/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/include" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources" -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ezpjerbggccahpfichhrsihjfkgn/ARView_Prefix.pch -c "/Users/aa/Desktop/ARView Working/Classes/ARMarker.m" -o "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARMarker.o"0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARMarker.o /Users/aa/Desktop/ARView/Classes/ARMarker.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292501566.907873
+e292501566.990515
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARMarker.o
+x/Users/aa/Desktop/ARView/Classes/ARMarker.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/aa/Desktop/ARView/Classes/ARMarker.m292501566#292501566#0(0"0(0#0#43"/Users/aa/Desktop/ARView/Classes/ARMarker.m4300739032#1701"    cd /Users/aa/Desktop/ARView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap -F/Users/aa/Desktop/ARView/build/Debug-iphonesimulator -I/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/include -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386 -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-guuhbjufgnwdvzdxtuvnpgupregp/ARView_Prefix.pch -c /Users/aa/Desktop/ARView/Classes/ARMarker.m -o /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARMarker.o0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARViewAppDelegate.o "/Users/aa/Desktop/ARView Working/Classes/ARViewAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292780278.164932
+e292780278.246733
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARViewAppDelegate.o
+x/Users/aa/Desktop/ARView Working/Classes/ARViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/aa/Desktop/ARView Working/Classes/ARViewAppDelegate.m292780278#292780278#0(0"0(0#0#60"/Users/aa/Desktop/ARView Working/Classes/ARViewAppDelegate.m4300739032#1829"    cd "/Users/aa/Desktop/ARView Working"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap" -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap" "-F/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator" "-I/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/include" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources" -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ezpjerbggccahpfichhrsihjfkgn/ARView_Prefix.pch -c "/Users/aa/Desktop/ARView Working/Classes/ARViewAppDelegate.m" -o "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARViewAppDelegate.o"0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARViewAppDelegate.o /Users/aa/Desktop/ARView/Classes/ARViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292501566.636995
+e292501566.756803
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARViewAppDelegate.o
+x/Users/aa/Desktop/ARView/Classes/ARViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/aa/Desktop/ARView/Classes/ARViewAppDelegate.m292501566#292501566#0(0"0(0#0#52"/Users/aa/Desktop/ARView/Classes/ARViewAppDelegate.m4300739032#1719"    cd /Users/aa/Desktop/ARView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap -F/Users/aa/Desktop/ARView/build/Debug-iphonesimulator -I/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/include -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386 -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-guuhbjufgnwdvzdxtuvnpgupregp/ARView_Prefix.pch -c /Users/aa/Desktop/ARView/Classes/ARViewAppDelegate.m -o /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARViewAppDelegate.o0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARViewController.o /Users/aa/Desktop/ARView/Classes/ARViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/RootController.o "/Users/aa/Desktop/ARView Working/Classes/RootController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292780278.330188
+e292780278.443046
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/RootController.o
+x/Users/aa/Desktop/ARView Working/Classes/RootController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/aa/Desktop/ARView Working/Classes/RootController.m292780278#292780278#0(0"0(0#0#57"/Users/aa/Desktop/ARView Working/Classes/RootController.m4300739032#1823"    cd "/Users/aa/Desktop/ARView Working"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap" -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap" "-F/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator" "-I/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/include" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources" -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ezpjerbggccahpfichhrsihjfkgn/ARView_Prefix.pch -c "/Users/aa/Desktop/ARView Working/Classes/RootController.m" -o "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/RootController.o"0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/RootController.o /Users/aa/Desktop/ARView/Classes/RootController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292501566.811108
+e292501566.907771
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/RootController.o
+x/Users/aa/Desktop/ARView/Classes/RootController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/aa/Desktop/ARView/Classes/RootController.m292501566#292501566#0(0"0(0#0#49"/Users/aa/Desktop/ARView/Classes/RootController.m4300739032#1713"    cd /Users/aa/Desktop/ARView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap -F/Users/aa/Desktop/ARView/build/Debug-iphonesimulator -I/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/include -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386 -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-guuhbjufgnwdvzdxtuvnpgupregp/ARView_Prefix.pch -c /Users/aa/Desktop/ARView/Classes/RootController.m -o /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/RootController.o0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/main.o "/Users/aa/Desktop/ARView Working/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s292780278.163071
+e292780278.219691
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/main.o
+x/Users/aa/Desktop/ARView Working/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/aa/Desktop/ARView Working/main.m292780278#292780278#0(0"0(0#0#39"/Users/aa/Desktop/ARView Working/main.m4300739032#1795"    cd "/Users/aa/Desktop/ARView Working"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap" -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap" "-F/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator" "-I/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/include" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources" -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ezpjerbggccahpfichhrsihjfkgn/ARView_Prefix.pch -c "/Users/aa/Desktop/ARView Working/main.m" -o "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/main.o /Users/aa/Desktop/ARView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s292501566.635864
+e292501566.739326
+r1
+xCompileC
+xbuild/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/main.o
+x/Users/aa/Desktop/ARView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Compile /Users/aa/Desktop/ARView/main.m292501566#292501566#0(0"0(0#0#31"/Users/aa/Desktop/ARView/main.m4300739032#1685"    cd /Users/aa/Desktop/ARView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap -F/Users/aa/Desktop/ARView/build/Debug-iphonesimulator -I/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/include -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386 -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources -include /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-guuhbjufgnwdvzdxtuvnpgupregp/ARView_Prefix.pch -c /Users/aa/Desktop/ARView/main.m -o /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB "/Users/aa/Desktop/ARView Working/MainWindow.xib"
+r0
+
+CCompileXIB /Users/aa/Desktop/ARView/MainWindow.xib
+s292501565.183557
+e292501565.544221
+r1
+xCompileXIB
+x/Users/aa/Desktop/ARView/MainWindow.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@25"CompileXIB MainWindow.xib292501565#292501565#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#39"/Users/aa/Desktop/ARView/MainWindow.xib4300739032#439"    cd /Users/aa/Desktop/ARView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/MainWindow.nib /Users/aa/Desktop/ARView/MainWindow.xib0#
+
+CCpResource build/Debug-iphonesimulator/ARView.app/point.png point.png
+s292501565.185630
+e292501565.193529
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/ARView.app/point.png
+xpoint.png
+lSLF07#2@14"Copy point.png292501565#292501565#0(0"0(0#0#34"/Users/aa/Desktop/ARView/point.png4300739032#410"    cd /Users/aa/Desktop/ARView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/aa/Desktop/ARView/point.png /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app0#
+
+CGenerateDSYMFile "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app.dSYM" "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/ARView"
+s292780278.572965
+e292780278.701565
+r1
+xGenerateDSYMFile
+x/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app.dSYM
+x/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/ARView
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/ARView.app.dSYM build/Debug-iphonesimulator/ARView.app/ARView292780278#292780278#0(0"0(0#0#78"/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/ARView4300739032#368"    cd "/Users/aa/Desktop/ARView Working"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/ARView" -o "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app.dSYM"0#
+
+CGenerateDSYMFile /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app.dSYM /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/ARView
+s292501567.097731
+e292501567.128325
+r1
+xGenerateDSYMFile
+x/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app.dSYM
+x/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/ARView
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/ARView.app.dSYM build/Debug-iphonesimulator/ARView.app/ARView292501567#292501567#0(0"0(0#0#70"/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/ARView4300739032#338"    cd /Users/aa/Desktop/ARView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/ARView -o /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app.dSYM0#
+
+CLd "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/ARView" normal i386
+s292780278.520579
+e292780278.572874
+r1
+xLd
+x/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/ARView
+xnormal
+xi386
+lSLF07#2@83"Link /Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/ARView292780278#292780278#0(0"0(0#0#0"4300739032#863"    cd "/Users/aa/Desktop/ARView Working"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator" "-F/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator" -filelist "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARView.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/ARView"0#
+
+CLd /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/ARView normal i386
+s292501567.002191
+e292501567.097635
+r1
+xLd
+x/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/ARView
+xnormal
+xi386
+lSLF07#2@75"Link /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/ARView292501567#292501567#0(0"0(0#0#0"4300739032#813"    cd /Users/aa/Desktop/ARView    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/aa/Desktop/ARView/build/Debug-iphonesimulator -F/Users/aa/Desktop/ARView/build/Debug-iphonesimulator -filelist /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/Objects-normal/i386/ARView.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreLocation -o /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/ARView0#
+
+CProcessInfoPlistFile "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app/Info.plist" ARView-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/Info.plist ARView-Info.plist
+s292501565.059288
+e292501565.183459
+r1
+xProcessInfoPlistFile
+x/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/Info.plist
+xARView-Info.plist
+lSLF07#2@25"Process ARView-Info.plist292501565#292501565#0(0"0(0#0#42"/Users/aa/Desktop/ARView/ARView-Info.plist31244220637446252#434"    cd /Users/aa/Desktop/ARView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility ARView-Info.plist -genpkginfo /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app/Info.plist0#
+
+CProcessPCH /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ebmxrszhglyerlbpqpawlsrenzit/ARView_Prefix.pch.gch ARView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292364126.324582
+e292364128.088467
+r1
+xProcessPCH
+x/var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ebmxrszhglyerlbpqpawlsrenzit/ARView_Prefix.pch.gch
+xARView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile ARView_Prefix.pch292364126#292364128#0(0"0(0#0#42"/Users/aa/Desktop/ARView/ARView_Prefix.pch5927070757483275264#1608"    cd /Users/aa/Desktop/ARView    setenv LANG en_US.US-ASCII    setenv PATH "/DeveloperBeta/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/DeveloperBeta/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /DeveloperBeta/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /DeveloperBeta/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap -F/Users/aa/Desktop/ARView/build/Debug-iphonesimulator -I/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/include -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386 -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources -c /Users/aa/Desktop/ARView/ARView_Prefix.pch -o /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ebmxrszhglyerlbpqpawlsrenzit/ARView_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ezpjerbggccahpfichhrsihjfkgn/ARView_Prefix.pch.gch ARView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292780276.817977
+e292780278.162786
+r1
+xProcessPCH
+x/var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ezpjerbggccahpfichhrsihjfkgn/ARView_Prefix.pch.gch
+xARView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile ARView_Prefix.pch292780276#292780278#0(0"0(0#0#50"/Users/aa/Desktop/ARView Working/ARView_Prefix.pch5927070757483275264#1692"    cd "/Users/aa/Desktop/ARView Working"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap" -iquote "/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap" "-F/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator" "-I/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/include" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386" "-I/Users/aa/Desktop/ARView Working/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources" -c "/Users/aa/Desktop/ARView Working/ARView_Prefix.pch" -o /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-ezpjerbggccahpfichhrsihjfkgn/ARView_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-guuhbjufgnwdvzdxtuvnpgupregp/ARView_Prefix.pch.gch ARView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s292501565.544381
+e292501566.635656
+r1
+xProcessPCH
+x/var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-guuhbjufgnwdvzdxtuvnpgupregp/ARView_Prefix.pch.gch
+xARView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile ARView_Prefix.pch292501565#292501566#0(0"0(0#0#42"/Users/aa/Desktop/ARView/ARView_Prefix.pch4300739032#1592"    cd /Users/aa/Desktop/ARView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-generated-files.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-own-target-headers.hmap -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-all-target-headers.hmap -iquote /Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/ARView-project-headers.hmap -F/Users/aa/Desktop/ARView/build/Debug-iphonesimulator -I/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/include -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources/i386 -I/Users/aa/Desktop/ARView/build/ARView.build/Debug-iphonesimulator/ARView.build/DerivedSources -c /Users/aa/Desktop/ARView/ARView_Prefix.pch -o /var/folders/7L/7LUu0HhiGRGYGbqc+MnD6U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/ARView_Prefix-guuhbjufgnwdvzdxtuvnpgupregp/ARView_Prefix.pch.gch0#
+
+CTouch "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app"
+s292780278.701644
+e292780278.709001
+r1
+xTouch
+x/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app
+lSLF07#2@77"Touch /Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app292780278#292780278#0(0"0(0#0#0"4300739032#269"    cd "/Users/aa/Desktop/ARView Working"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/aa/Desktop/ARView Working/build/Debug-iphonesimulator/ARView.app"0#
+
+CTouch /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app
+s292501567.128408
+e292501567.135398
+r1
+xTouch
+x/Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app
+lSLF07#2@69"Touch /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app292501567#292501567#0(0"0(0#0#0"4300739032#249"    cd /Users/aa/Desktop/ARView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/aa/Desktop/ARView/build/Debug-iphonesimulator/ARView.app0#
+
